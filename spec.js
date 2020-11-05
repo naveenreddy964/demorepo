@@ -11,6 +11,6 @@ browser.manage().window().maximize();
 })
 it('close application',function(){
 
-
+browser.close();
 })
 })
