@@ -22,9 +22,3 @@ getHno(){
     return this.hno;
 }
 }
-
-// let cd= new ClassDemo(123);
-// cd.setUsername("Rahul");
-// cd.setUsername;
-// console.log(cd.getUsername());
-// console.log(cd.getHno());
