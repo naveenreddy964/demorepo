@@ -10,4 +10,5 @@ var _loop_1 = function (i) {
 };
 for (var i = 0; i < 5; i++) {
     _loop_1(i);
+    console.log(i);
 }
